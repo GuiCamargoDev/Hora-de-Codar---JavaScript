@@ -1,0 +1,23 @@
+body {
+    background: rgb(84, 85, 86);
+}
+
+a {
+    margin: 30vh 20vh;
+    background-color: aqua;
+    list-style: none;
+    text-decoration: none;
+}
+
+p {
+    margin: 10vh 20vh;
+}
+
+.conjunto {
+    margin: 1vh 1vh;
+    justify-content: center;
+}
+
+.ind {
+    margin: 10vh 65vh;
+}
